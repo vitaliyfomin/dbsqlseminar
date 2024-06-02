@@ -1,4 +1,4 @@
-> # Базы данных и SQL (семинары)
+[![Базы данных и SQL (семинары)](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)] 
 
 > [Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 
