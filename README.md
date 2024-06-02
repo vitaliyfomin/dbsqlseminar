@@ -15,11 +15,11 @@
 
 [Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 
-> > [![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task02)
+[![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task01)
 
-> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task02)
+[![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task02)
 
-> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task03)
+[![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task03)
 
 </details>
 
