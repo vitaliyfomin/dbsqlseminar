@@ -15,7 +15,7 @@
 
 [Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 
-> > ![Static Badge](https://img.shields.io/badge/TASK01-%232684FC?style=for-the-badge&color=black&cacheSeconds=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fgoogletasks.svg)
+> > ![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fvitaliyfomin%2Fdbsqlseminar%2Ftree%2Fmain%2Flesson01%2Ftask01)
 
 
 > > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task02)
