@@ -13,6 +13,7 @@
 </summary>
 <br>
 
+[![Static Badge](https://img.shields.io/badge/Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 [Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 
 [![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task01)
