@@ -1,13 +1,13 @@
 [!(https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
 
-<summary>Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц (https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)</summary>
+<details> <summary>Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц (https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)</summary>
 
 > > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task01)
 
 > > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task02)
 
 > > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task03)
-
+</details>
 > [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
 > > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task01)
