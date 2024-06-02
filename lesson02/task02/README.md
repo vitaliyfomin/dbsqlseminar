@@ -27,3 +27,20 @@
 Статусы количества мобильных телефонов (в зависимости от количества): меньше 100 – «little»; от 100 до 300 – «many»; больше 300 – «lots».
 
 Необходимо вывести название, производителя и статус количества для мобильных телефонов.
+
+
+-- Вы работаете с MySQL
+
+-- Введите свой код ниже
+```sh
+SELECT 
+    product_name, 
+    manufacturer, 
+    CASE 
+        WHEN product_count < 100 THEN 'little'
+        WHEN product_count BETWEEN 100 AND 300 THEN 'many'
+        ELSE 'lots'
+    END AS status
+FROM 
+    mobile_phones;
+```

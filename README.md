@@ -10,9 +10,9 @@
 
 > [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
-> > [Task01]()
+> > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task01)
 
-> > [Task02]()
+> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task02)
 
 > > [Task03]()
 
