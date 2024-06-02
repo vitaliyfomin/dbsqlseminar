@@ -4,6 +4,8 @@
 <summary>Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц
 </summary>
 <br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
 
 > > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task01)
