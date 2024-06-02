@@ -33,3 +33,13 @@
 > > [Task06](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task06)
 
 > > [Task07](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task07)
+
+> [Урок 4. SQL – работа с несколькими таблицами](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04)
+
+> > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task01)
+
+> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task02)
+
+> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task03)
+
+> > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task04)
