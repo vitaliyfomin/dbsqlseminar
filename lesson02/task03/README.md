@@ -10,7 +10,7 @@
 
 `product_count` – количество;
 
-`price – цена.
+`price` – цена.
 
 Сущность `mobile_phones` имеет следующие записи:
 

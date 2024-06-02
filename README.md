@@ -14,6 +14,6 @@
 
 > > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task02)
 
-> > [Task03]()
+> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task03)
 
 > > [Task04]()
