@@ -16,4 +16,20 @@
 
 > > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task03)
 
+> > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task04)
+
+> [Урок 3. SQL – выборка данных, сортировка, агрегатные функции]()
+
+> > [Task01]()
+
+> > [Task02]()
+
+> > [Task03]()
+
 > > [Task04]()
+
+> > [Task05]()
+
+> > [Task06]()
+
+> > [Task07]()
