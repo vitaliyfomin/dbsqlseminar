@@ -33,3 +33,23 @@
 `name` – строковый тип;
 
 Используя CRUD-операцию INSERT, наполните сущность `manufacturer` в соответствии с данными, имеющимися в атрибуте `manufacturer` сущности `mobile_phones`.
+
+-- При написании запросов указывайте не только имя таблицы, но и схему.
+-- Название вашей схемы - `itresume6149918`
+-- Например, `itresume6149918.tablename`
+
+-- Вы работаете с `PostgreSQL`
+-- Введите свой код ниже
+-- Создание таблицы `manufacturer`
+```sh
+CREATE TABLE itresume6149918.manufacturer (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL
+);
+```
+-- Вставка уникальных значений из таблицы `itresume6149918.mobile_phones` в таблицу `itresume6149918.manufacturer`
+```sh
+INSERT INTO itresume6149918.manufacturer (name)
+SELECT DISTINCT manufacturer 
+FROM itresume6149918.mobile_phones;
+```
