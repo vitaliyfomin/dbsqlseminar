@@ -31,6 +31,12 @@
 
 > > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task04)
 </details>
+
+<details>
+<summary>
+Урок 3. SQL – выборка данных, сортировка, агрегатные функции
+</summary>
+
 > [Урок 3. SQL – выборка данных, сортировка, агрегатные функции](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03)
 
 > > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task01)
@@ -46,6 +52,12 @@
 > > [Task06](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task06)
 
 > > [Task07](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task07)
+</details>
+
+<details>
+<summary>
+Урок 4. SQL – работа с несколькими таблицами
+</summary>
 
 > [Урок 4. SQL – работа с несколькими таблицами](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04)
 
@@ -56,3 +68,4 @@
 > > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task03)
 
 > > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task04)
+</details>
