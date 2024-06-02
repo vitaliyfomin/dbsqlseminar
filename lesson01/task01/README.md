@@ -10,7 +10,7 @@
 Используя CRUD-операцию INSERT, наполните сущность `mobile_phones` данными:
 
 |product_name|manufacturer|product_count|price|
-|-|--------|---|---|
+|:-:|:-:|:-:|:-:|
 |iPhone X|Apple|156|76000|
 |iPhone 8|Apple|180|51000|
 |Galaxy S9|Samsung|21|56000|
