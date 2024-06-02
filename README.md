@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/BKwmpCd/sql.png" alt="sql" border="0" style="width: 40%; height: 40%;" />
-<img alt="Static Badge" src="https://img.shields.io/badge/%20-black?label=TASK02&labelColor=black">
-
 <h1>
   Базы данных и SQL (семинары)
 </h1>
