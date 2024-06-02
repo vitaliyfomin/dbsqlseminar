@@ -20,7 +20,7 @@
 <summary>
 Урок 2. SQL – создание объектов, простые запросы выборки
 </summary>
-<br>
+
 > [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
 > > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task01)
