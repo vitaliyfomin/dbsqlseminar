@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <<img src="https://i.ibb.co/BKwmpCd/sql.png" alt="sql" border="0" />
+  <a href="https://ibb.co/tP3SGJk"><img src="https://i.ibb.co/tP3SGJk/sql.png" alt="sql" border="0" /></a>
 <h1>
   Базы данных и SQL (семинары)
 </h1>
