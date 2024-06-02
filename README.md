@@ -8,7 +8,7 @@
 
 > > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01/task03)
 
-> [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson01)
+> [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
 > > [Task01]()
 
