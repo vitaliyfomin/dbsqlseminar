@@ -53,4 +53,16 @@
 
 </details>
 
+<details>
+<summary>
+Урок 5. SQL – оконные функции
+</summary>
+<br>
+
+[![Static Badge](https://img.shields.io/badge/Урок_5._SQL_–_оконные_функции-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson05)
+
+[![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson05/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson05/task02)
+
+</details>
+
 
