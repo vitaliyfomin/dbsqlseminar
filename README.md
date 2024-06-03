@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/sySW9mg/sql.png" alt="sql" border="0" style="width: 40%; height: 40%;" />
 <h1>
-  Базы данных и SQL (семинары)
+  базы данных и SQL (семинары)
 </h1>
 </div>
 
