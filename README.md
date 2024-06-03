@@ -33,22 +33,12 @@
 <summary>
 Урок 3. SQL – выборка данных, сортировка, агрегатные функции
 </summary>
+<br>
 
-> [Урок 3. SQL – выборка данных, сортировка, агрегатные функции](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03)
+[![Static Badge](https://img.shields.io/badge/Урок_3._SQL_–_выборка_данных,_сортировка,_агрегатные_функции-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
-> > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task01)
+[![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task02) [![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task03) [![Static Badge](https://img.shields.io/badge/TASK04-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task04) [![Static Badge](https://img.shields.io/badge/TASK05-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task05) [![Static Badge](https://img.shields.io/badge/TASK06-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task06) [![Static Badge](https://img.shields.io/badge/TASK07-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task07)
 
-> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task02)
-
-> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task03)
-
-> > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task04)
-
-> > [Task05](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task05)
-
-> > [Task06](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task06)
-
-> > [Task07](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task07)
 </details>
 
 <details>
