@@ -52,5 +52,6 @@ DELIMITER ;
 
 `-- Вызов функции для проверки:`
 ```sh
-SELECT format_seconds(123456);
+USE lesson06;
+SELECT format_seconds(123456) AS formatted_time;
 ```

@@ -1,4 +1,3 @@
-```sh
 -- Создание базы данных и использование её
 CREATE DATABASE IF NOT EXISTS lesson06;
 USE lesson06;
@@ -69,4 +68,3 @@ DELIMITER ;
 
 -- Вызов процедуры
 CALL get_even_numbers();
-```

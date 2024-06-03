@@ -4,8 +4,19 @@
 
 `Пример: 2,4,6,8,10`
 
+`-- Простой запрос для вывода четных чисел:`
+```sh
+SELECT num
+FROM (
+    SELECT 2 AS num UNION
+    SELECT 4 UNION
+    SELECT 6 UNION
+    SELECT 8 UNION
+    SELECT 10
+) AS even_numbers;
+```
 
-`-- Создание процедуры для вывода четных чисел:`
+`-- Хранимая процедура для вывода четных чисел:`
 ```sh
 DELIMITER //
 
@@ -21,9 +32,7 @@ END//
 
 DELIMITER ;
 ```
-
-`-- Вызов процедуры для проверки:`
+`-- Вызов процедуры:`
 ```sh
 CALL get_even_numbers();
 ```
-
