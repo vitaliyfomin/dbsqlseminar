@@ -71,6 +71,7 @@
 </summary>
 <br>
 <h>
+
 [![Static Badge](https://img.shields.io/badge/Урок_6._SQL_–_Транзакции._Временные_таблицы,_управляющие_конструкции,_циклы-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson05)
 
 [![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson06/task01)
