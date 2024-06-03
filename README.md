@@ -47,7 +47,7 @@
 </summary>
 <br>
 
-[![Static Badge](https://img.shields.io/badge/Урок_4._SQL_–_работа_с_несколькими_таблицами-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03)
+[![Static Badge](https://img.shields.io/badge/Урок_4._SQL_–_работа_с_несколькими_таблицами-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04)
 
 [![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task02) [![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task03) [![Static Badge](https://img.shields.io/badge/TASK04-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task04)
 
