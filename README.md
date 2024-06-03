@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/sySW9mg/sql.png" alt="sql" border="0" style="width: 40%; height: 40%;" />
 <h1>
-  базы данных и SQL (семинары)
+  Базы данных и SQL (семинары)
 </h1>
 </div>
 
@@ -21,16 +21,12 @@
 <summary>
 Урок 2. SQL – создание объектов, простые запросы выборки
 </summary>
+<br>
 
-> [Урок 2. SQL – создание объектов, простые запросы выборки](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
+[![Static Badge](https://img.shields.io/badge/Урок_2._SQL_–_создание_объектов,_простые_запросы_выборки-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
 
-> > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task01)
+[![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task02) [![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task03) [![Static Badge](https://img.shields.io/badge/TASK04-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task04)
 
-> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task02)
-
-> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task03)
-
-> > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02/task04)
 </details>
 
 <details>
