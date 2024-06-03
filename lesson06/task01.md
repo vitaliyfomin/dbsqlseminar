@@ -4,21 +4,28 @@
 
 `Пример: 123456 ->'1 days 10 hours 17 minutes 36 seconds '`
 
+`Создание базы данных и использование её:`
+
 ```sh
--- Создание базы данных и использование её
 CREATE DATABASE IF NOT EXISTS lesson06;
 USE lesson06;
+```
 
--- Создание таблицы (хотя она здесь не нужна для выполнения задания)
+`Создание таблицы:`
+
+```sh
 CREATE TABLE IF NOT EXISTS example_table (
     id INT AUTO_INCREMENT PRIMARY KEY,
     example_column VARCHAR(255) NOT NULL
 );
+```
 
--- Создание функции для форматирования секунд
+`Создание функции для форматирования секунд:`
+```sh
 DELIMITER //
 
 CREATE FUNCTION format_seconds(seconds INT) RETURNS VARCHAR(255)
+DETERMINISTIC
 BEGIN
     DECLARE days INT;
     DECLARE hours INT;
@@ -42,25 +49,10 @@ BEGIN
 END//
 
 DELIMITER ;
+```
 
--- Вызов функции
+`Вызов функции для проверки:`
+```sh
 SELECT format_seconds(123456);
-
--- Создание процедуры для вывода четных чисел
-DELIMITER //
-
-CREATE PROCEDURE print_even_numbers()
-BEGIN
-    DECLARE i INT DEFAULT 2;
-    WHILE i <= 10 DO
-        SELECT i;
-        SET i = i + 2;
-    END WHILE;
-END//
-
-DELIMITER ;
-
--- Вызов процедуры
-CALL print_even_numbers();
 ```
 
