@@ -1,26 +1,15 @@
-# Урок 6. SQL – Транзакции. Временные таблицы, управляющие конструкции, циклы
-
-1. Создайте функцию, которая принимает кол-во сек и формат их в кол-во дней часов.
-
-`Пример: 123456 ->'1 days 10 hours 17 minutes 36 seconds '`
-
-
-`-- Создание базы данных и использование её:`
 ```sh
+-- Создание базы данных и использование её
 CREATE DATABASE IF NOT EXISTS lesson06;
 USE lesson06;
-```
 
-`-- Создание таблицы:`
-```sh
+-- Создание таблицы
 CREATE TABLE IF NOT EXISTS example_table (
     id INT AUTO_INCREMENT PRIMARY KEY,
     example_column VARCHAR(255) NOT NULL
 );
-```
 
-`-- Создание функции для форматирования секунд:`
-```sh
+-- Создание функции для форматирования секунд
 DELIMITER //
 
 CREATE FUNCTION format_seconds(seconds INT) RETURNS VARCHAR(255)
@@ -48,9 +37,25 @@ BEGIN
 END//
 
 DELIMITER ;
-```
 
-`-- Вызов функции для проверки:`
-```sh
+-- Вызов функции для проверки
 SELECT format_seconds(123456);
+
+-- Создание процедуры для вывода четных чисел
+DELIMITER //
+
+CREATE PROCEDURE get_even_numbers()
+BEGIN
+    DECLARE i INT DEFAULT 2;
+
+    WHILE i <= 10 DO
+        SELECT i;
+        SET i = i + 2;
+    END WHILE;
+END//
+
+DELIMITER ;
+
+-- Вызов процедуры для проверки
+CALL get_even_numbers();
 ```
