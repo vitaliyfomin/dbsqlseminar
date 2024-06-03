@@ -35,7 +35,7 @@
 </summary>
 <br>
 
-[![Static Badge](https://img.shields.io/badge/Урок_3._SQL_–_выборка_данных,_сортировка,_агрегатные_функции-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson02)
+[![Static Badge](https://img.shields.io/badge/Урок_3._SQL_–_выборка_данных,_сортировка,_агрегатные_функции-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03)
 
 [![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task02) [![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task03) [![Static Badge](https://img.shields.io/badge/TASK04-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task04) [![Static Badge](https://img.shields.io/badge/TASK05-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task05) [![Static Badge](https://img.shields.io/badge/TASK06-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task06) [![Static Badge](https://img.shields.io/badge/TASK07-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03/task07)
 
@@ -45,14 +45,12 @@
 <summary>
 Урок 4. SQL – работа с несколькими таблицами
 </summary>
+<br>
 
-> [Урок 4. SQL – работа с несколькими таблицами](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04)
+[![Static Badge](https://img.shields.io/badge/Урок_4._SQL_–_работа_с_несколькими_таблицами-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson03)
 
-> > [Task01](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task01)
+[![Static Badge](https://img.shields.io/badge/TASK01-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task01) [![Static Badge](https://img.shields.io/badge/TASK02-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task02) [![Static Badge](https://img.shields.io/badge/TASK03-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task03) [![Static Badge](https://img.shields.io/badge/TASK04-black?style=flat-square)](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task04)
 
-> > [Task02](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task02)
-
-> > [Task03](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task03)
-
-> > [Task04](https://github.com/vitaliyfomin/dbsqlseminar/tree/main/lesson04/task04)
 </details>
+
+
